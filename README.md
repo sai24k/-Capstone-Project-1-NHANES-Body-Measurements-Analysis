@@ -107,13 +107,13 @@ Two datasets from [NHANES](https://github.com/gagolews/teaching-data/tree/master
 ## 📷 Sample Output Images  
 
 ### **1. Weight Histograms**  
-![Weight Histograms](images/hist_weights.png)  
+![Weight Histograms](output-images/weight histograms.png)  
 
 ### **2. Boxplot Comparison (Weights)**  
-![Boxplot Comparison](images/boxplot_weights.png)  
+![Boxplot Comparison](output-images/boxplot.png)  
 
 ### **3. Scatterplot Matrix (Females – Standardized Data)**  
-![Scatterplot Matrix](images/scatterplot_matrix.png)  
+![Scatterplot Matrix](output-images/scatterplot.png)  
 
 ### **4. Waist-to-Height & Waist-to-Hip Ratios Comparison**  
-![Ratios Boxplot](images/ratios_boxplot.png)  
+![Ratios Boxplot](output-images/ratios comparision of waist to hip.png)  
